@@ -15,7 +15,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'BiliBili', link: 'https://mikwiki.netlify.app' },
+      { text: 'Bilibili', link: 'https://space.bilibili.com/650182011' },
       { text: 'Mik', link: 'https://mikwiki.netlify.app' }
     ],
 
