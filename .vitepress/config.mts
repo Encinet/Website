@@ -9,7 +9,6 @@ export default defineConfig({
     ]
   ],
   title: "Encinet",
-  titleTemplate: ':title',// disable suffix title
   description: "繁星棋布无遗处，空念独善憾自知",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -19,15 +18,15 @@ export default defineConfig({
       { text: 'Mik', link: 'https://mikwiki.netlify.app' }
     ],
 
-    // sidebar: [
-    //   {
-    //     text: 'Examples',
-    //     items: [
-    //       { text: 'Markdown Examples', link: '/markdown-examples' },
-    //       { text: 'Runtime API Examples', link: '/api-examples' }
-    //     ]
-    //   }
-    // ],
+    sidebar: [
+      // {
+      //   text: 'Examples',
+      //   items: [
+      //     { text: 'Markdown Examples', link: '/markdown-examples' },
+      //     { text: 'Runtime API Examples', link: '/api-examples' }
+      //   ]
+      // }
+    ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/encinet' }
