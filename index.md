@@ -8,8 +8,8 @@ hero:
   tagline: "Minecraft项目开发工作室"
   actions:
     - theme: brand
-      text: Join QQ Group
-      link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=oBOePdAujT3PysSptPa12chxLaMXN1mv&authKey=S%2BApNAVhapMEUC359xxNxSMsHkaL53SoS6njdlAXdDYyTYmYg3IcbjEiICXUnb7v&noverify=0&group_code=682204087"
+      text: Join KOOK
+      link: "https://kook.top/fIyIdT"
     - theme: alt
       text: Github
       link: "https://github.com/encinet"
