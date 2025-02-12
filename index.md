@@ -15,11 +15,11 @@ hero:
       link: "https://github.com/encinet"
 
 features:
-  - title: Passionate
-    details: We do what we love. That's what we're about.
-  - title: Open
-    details: Dedicated to make a contribution to the whole open source world
-  - title: Inclusive
-    details: We welcome everyone to join us, inclusion is presented here
+  - title: 热爱
+    details: 做我们热爱的事 也是我们应该做的事
+  - title: 开源
+    details: 致力于为整个开源世界做出贡献
+  - title: 包容
+    details: 用热情和行动欢迎每一个人
 ---
 
