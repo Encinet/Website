@@ -5,11 +5,11 @@ layout: home
 hero:
   name: "Encinet"
   text: "繁星棋布无遗处，空念独善憾自知"
-  tagline: "Minecraft项目开发工作室"
+  tagline: "Minecraft公益创作工作室"
   actions:
     - theme: brand
-      text: Join KOOK
-      link: "https://kook.top/fIyIdT"
+      text: Join QQ
+      link: "https://qm.qq.com/q/xpwxCOD0Wc"
     - theme: alt
       text: Github
       link: "https://github.com/encinet"
